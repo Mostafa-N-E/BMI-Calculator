@@ -1,0 +1,12 @@
+com.example.bmi_calculator.app-jetified-window-java-1.0.0-beta04-0 /Users/mostafa/.gradle/caches/transforms-3/13f4ba9073ad3955f6b389f198634c22/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.bmi_calculator.app-jetified-window-1.0.0-beta04-1 /Users/mostafa/.gradle/caches/transforms-3/66cf4e3ddef4fa70527a905bbea4ea8e/transformed/jetified-window-1.0.0-beta04/res
+com.example.bmi_calculator.app-jetified-annotation-experimental-1.1.0-2 /Users/mostafa/.gradle/caches/transforms-3/8e85f8df9ffbe96059118124eac9be7a/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.bmi_calculator.app-core-1.6.0-3 /Users/mostafa/.gradle/caches/transforms-3/b4ae11031c72b33523fa62fcef5e3fbc/transformed/core-1.6.0/res
+com.example.bmi_calculator.app-debug-4 /Users/mostafa/Documents/GitHub/bmi_calculator/android/app/src/debug/res
+com.example.bmi_calculator.app-main-5 /Users/mostafa/Documents/GitHub/bmi_calculator/android/app/src/main/res
+com.example.bmi_calculator.app-pngs-6 /Users/mostafa/Documents/GitHub/bmi_calculator/build/app/generated/res/pngs/debug
+com.example.bmi_calculator.app-resValues-7 /Users/mostafa/Documents/GitHub/bmi_calculator/build/app/generated/res/resValues/debug
+com.example.bmi_calculator.app-rs-8 /Users/mostafa/Documents/GitHub/bmi_calculator/build/app/generated/res/rs/debug
+com.example.bmi_calculator.app-mergeDebugResources-9 /Users/mostafa/Documents/GitHub/bmi_calculator/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.bmi_calculator.app-mergeDebugResources-10 /Users/mostafa/Documents/GitHub/bmi_calculator/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.bmi_calculator.app-merged_res-11 /Users/mostafa/Documents/GitHub/bmi_calculator/build/app/intermediates/merged_res/debug
